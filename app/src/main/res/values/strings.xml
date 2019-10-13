@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Galgelej</string>
+    <string name="Titel">Galgelej</string>
+    <string name="NewGameButton">New Game</string>
+    <string name="HighscoreButton">Highscore</string>
+    <string name="hjælpButton">Hjælp</string>
+    <string name="contentDescription" />
+    <string name="GuessWord">Guess Word...</string>
+    <string name="GuessWordButton">Guess</string>
 </resources>
