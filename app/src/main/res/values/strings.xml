@@ -7,4 +7,8 @@
     <string name="contentDescription" />
     <string name="GuessWord">Guess Word...</string>
     <string name="GuessWordButton">Guess</string>
+    <string name="Highscore">Highscore</string>
+    <string name="HighscoreScreen">This is a highscore screen</string>
+    <string name="Hjælp">Hjælp</string>
+    <string name="HjælpScreen">This is a help screen</string>
 </resources>
